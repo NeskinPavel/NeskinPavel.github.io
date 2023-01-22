@@ -147,3 +147,11 @@ header{
   #r4:checked ~ .s1 {
       margin-left: -75%;
   }
+
+
+  .textcols{
+    column-width: 48%;
+    column-count: 2;
+    column-gap: 4%;
+    
+  }
